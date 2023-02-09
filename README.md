@@ -10,5 +10,5 @@
 
 # Socket Graph
 
-<img src="https://github.com/xihadulislam/Socket-io-with-Dagger-Hilt/blob/master/ss/socket-io.png" height="500em" />
+<img src="https://github.com/xihadulislam/Socket-io-with-Dagger-Hilt/blob/master/ss/socket-io.png" height="300em" />
 
