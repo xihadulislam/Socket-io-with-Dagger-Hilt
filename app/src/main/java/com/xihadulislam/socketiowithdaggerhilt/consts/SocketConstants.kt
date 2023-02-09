@@ -13,7 +13,7 @@ object SocketConstants {
     /**
      * Name Space
      */
-    val NAME_SPACE = "test"
+    const val NAME_SPACE = "test"
 
 
     var JOIN_ROOM = "join-room"

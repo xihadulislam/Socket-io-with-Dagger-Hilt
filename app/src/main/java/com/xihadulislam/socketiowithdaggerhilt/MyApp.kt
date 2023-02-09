@@ -13,7 +13,7 @@ class MyApp : Application() {
 
     override fun onCreate() {
         super.onCreate()
-        socketManager.socketConnect()
+       // socketManager.socketConnect()
     }
 
 }

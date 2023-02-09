@@ -18,4 +18,16 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
+
+
+    override fun onStart() {
+        super.onStart()
+        socketManager.socketConnect()
+    }
+
+    override fun onDestroy() {
+        super.onDestroy()
+        socketManager.socketDisconnect()
+    }
+
 }
