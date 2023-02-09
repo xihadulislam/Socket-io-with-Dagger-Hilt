@@ -14,7 +14,7 @@
 ```
 
 
-## call the socketConnect method on onStart()
+## Call the socketConnect method on onStart()
 ```kt
 
       override fun onStart() {
@@ -25,7 +25,7 @@
 
 ```
 
-## call the socketDisconnect method on onDestroy()
+## Call the socketDisconnect method on onDestroy()
 ```kt
 
        override fun onDestroy() {
@@ -41,7 +41,7 @@
 
 
 
-## Socket event on / Off call
+## Socket event on / off call
 ```kt
 
     private fun socketOn() {
