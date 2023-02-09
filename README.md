@@ -4,7 +4,7 @@
 
 # Code Snippet
 
-## diclar with lateinit var
+## Declare with lateinit var
 ```kt
 
     @Inject
@@ -41,7 +41,7 @@
 
 
 
-## 
+## Socket event on / Off call
 ```kt
 
     private fun socketOn() {
@@ -56,7 +56,7 @@
 
 
 ```
-## 
+##  We will get call back into this Emitter Listener
 ```kt
 
    var onTransactionsListening =
